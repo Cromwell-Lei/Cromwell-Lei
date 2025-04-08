@@ -1,4 +1,4 @@
-## Hi there,im Lei,study at Australian National University👋
+## Hi there,im Lei,study at ![Australian National University](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/logo-ANU.png)Australian National University currently👋
 ## My project
 - [1️⃣澳门城市大学金融学院周刊-《City Finance Times》](https://github.com/Cromwell-Lei/-CITYU-Macau-FOF-College-Weekly-Bulletin-)
 - [2️⃣生成式定制刊物系统(Generative Custom Publication System) ](https://github.com/Cromwell-Lei/GCPS)
