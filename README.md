@@ -1,8 +1,8 @@
-## Hi there,im Lei.<br>
-***Study at ![Australian National University](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/logo-ANU2.png)Australian National University currently👋***
+## Hi there,im Lei 👋.<br>
+***Study at ![Australian National University](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/logo-ANU2.png)Australian National University currently,the Master of Economics.***
 ## My project
-- [1️⃣澳门城市大学金融学院周刊-《City Finance Times》](https://github.com/Cromwell-Lei/-CITYU-Macau-FOF-College-Weekly-Bulletin-)
-- [2️⃣生成式定制刊物系统(Generative Custom Publication System) ](https://github.com/Cromwell-Lei/GCPS)
+- [1️⃣CityU-Macau's weekly bulletin for Faculty of Finance-[City Finance Times]](https://github.com/Cromwell-Lei/-CITYU-Macau-FOF-College-Weekly-Bulletin-)
+- [2️⃣DREAMER CAT:A internet financial crowdfunding platform for every project beginner🚀](https://github.com/Cromwell-Lei/DREAMER-CAT-A-internet-crowdfunding-platform-for-every-project-beginner-)
 
 <!--
 **Cromwell-Lei/Cromwell-Lei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
