@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there,im Lei,study at Australian National University👋
+## My project
+- [1️⃣澳门城市大学金融学院周刊-《City Finance Times》](https://github.com/Cromwell-Lei/-CITYU-Macau-FOF-College-Weekly-Bulletin-)
+- [2️⃣生成式定制刊物系统(Generative Custom Publication System) ](https://github.com/Cromwell-Lei/GCPS)
 
 <!--
 **Cromwell-Lei/Cromwell-Lei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
