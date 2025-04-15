@@ -3,7 +3,7 @@
 ***Bachelor of Applied economics of ![cityu](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/cityu%20logo2.png)CityU Macau***
 ## My project
 - [1️⃣CityU-Macau's weekly bulletin for Faculty of Finance-[City Finance Times]](https://github.com/Cromwell-Lei/-CITYU-Macau-FOF-College-Weekly-Bulletin-)
-- [2️⃣DREAMER CAT:A internet financial crowdfunding platform for every project beginner🚀](https://github.com/Cromwell-Lei/DREAMER-CAT-A-internet-crowdfunding-platform-for-every-project-beginner-)
+- [2️⃣LINKLINES:A internet financial crowdfunding platform for every project beginner🚀](https://github.com/Cromwell-Lei/DREAMER-CAT-A-internet-crowdfunding-platform-for-every-project-beginner-)
 
 <!--
 **Cromwell-Lei/Cromwell-Lei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
