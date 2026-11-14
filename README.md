@@ -1,7 +1,7 @@
 ## Hi there,im Lei.<br>
 ***Data Engineer&Product Manager in Chuchiang Data<br>***
 ***Study at ![Australian National University](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/logo-ANU2.png)Australian National University currently,the Master of Economics.<br>***
-***Bachelor of Applied economics of ![cityu](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/cityu%20logo2.png)CityU Macau***
+<!--***Bachelor of Applied economics of ![cityu](https://raw.githubusercontent.com/Cromwell-Lei/Cromwell-Lei/refs/heads/main/cityu%20logo2.png)CityU Macau***-->
 
 <!--
 **Cromwell-Lei/Cromwell-Lei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
